@@ -26,8 +26,11 @@ KEYS * -> Get all available keys (below is a sample output of above command)
 
 
 get "customer::1" -> Get  specific key from the cache
+
 flushall -> Clear all keys in the cache
+
 del "customer::1" -> delete specific key from cache
+
 clear -> clear command line output
 
 
